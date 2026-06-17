@@ -1,5 +1,7 @@
 # nanochat
 
+*Read this in other languages: [日本語 (Japanese)](README.ja.md)*
+
 ![nanochat logo](dev/nanochat.png)
 ![scaling laws](dev/scaling_laws_jan26.png)
 
